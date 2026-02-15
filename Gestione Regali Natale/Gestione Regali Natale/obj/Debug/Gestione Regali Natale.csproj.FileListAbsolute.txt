@@ -1,0 +1,51 @@
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\Gestione Regali Natale.exe.config
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\Gestione Regali Natale.exe
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\Gestione Regali Natale.pdb
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\ClosedXML.dll
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\ClosedXML.Parser.dll
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\EntityFramework.dll
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\RBush.dll
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\System.Buffers.dll
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\System.Data.SQLite.dll
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\System.Memory.dll
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\ClosedXML.pdb
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\ClosedXML.xml
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\ClosedXML.Parser.xml
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\EntityFramework.xml
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\RBush.xml
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\System.Buffers.xml
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\System.Data.SQLite.xml
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\System.Memory.xml
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\obj\Debug\Gestione Regali Natale.csproj.AssemblyReference.cache
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\obj\Debug\Gestione_Regali_Natale.ClienteForm.resources
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\obj\Debug\Gestione_Regali_Natale.MainForm.resources
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\obj\Debug\Gestione_Regali_Natale.Properties.Resources.resources
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\obj\Debug\Gestione Regali Natale.csproj.GenerateResource.cache
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\obj\Debug\Gestione Regali Natale.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\obj\Debug\Gestione.E5B0B38B.Up2Date
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\obj\Debug\Gestione Regali Natale.exe
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\obj\Debug\Gestione Regali Natale.pdb
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\obj\Debug\Gestione Regali Natale.exe.config
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\obj\Debug\Gestione_Regali_Natale.StoricoRegaliForm.resources
+C:\Users\Cristian\Desktop\Progetto Lavoro\Gestione Regali Natale\Gestione Regali Natale\obj\Debug\Gestione_Regali_Natale.RegaloForm.resources
