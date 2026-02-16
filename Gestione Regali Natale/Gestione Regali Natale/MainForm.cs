@@ -117,7 +117,7 @@ namespace Gestione_Regali_Natale
                     {
                         string ragione = ws.Cell(r, headers["Ragione Sociale"]).GetString().Trim();
                         string nome = ws.Cell(r, headers["Nome"]).GetString().Trim();
-                        string referente = ws.Cell(r, headers["Referente Commerciale"]).GetString().Trim();
+                        string referente = ws.Cell(r, headers["Referente"]).GetString().Trim();
                         string fatturato = ws.Cell(r, headers["Fatturato"]).GetString().Trim();
                         string categoria = ws.Cell(r, headers["Categoria"]).GetString().Trim();
                         string indirizzo = ws.Cell(r, headers["Indirizzo"]).GetString().Trim();
@@ -148,7 +148,7 @@ namespace Gestione_Regali_Natale
                         SQLiteCommand insertCliente = new SQLiteCommand(@"
                     INSERT INTO Clienti
                     (RagioneSociale, Nome, Referente, Fatturato, Categoria, Indirizzo)
-                    VALUES (@r,@n,@ref,@t,@c,@i);
+                    VALUES (@r,@n,@ref,@f,@c,@i);
                     SELECT last_insert_rowid();
                 ", conn);
 
@@ -191,25 +191,35 @@ namespace Gestione_Regali_Natale
 
             using (var wb = new XLWorkbook())
             {
-                var ws = wb.Worksheets.Add("Clienti");
+                var wsClienti = wb.Worksheets.Add("Clienti");
+                var wsStorico = wb.Worksheets.Add("Storico Regali");
 
                 // intestazioni
-                ws.Cell(1, 1).Value = "ID";
-                ws.Cell(1, 2).Value = "Ragione Sociale";
-                ws.Cell(1, 3).Value = "Nome";
-                ws.Cell(1, 4).Value = "Referente Commerciale";
-                ws.Cell(1, 5).Value = "Fatturato";
-                ws.Cell(1, 6).Value = "Categoria";
-                ws.Cell(1, 7).Value = "Indirizzo";
-                ws.Cell(1, 8).Value = "Anno";
+                wsClienti.Cell(1, 1).Value = "ID";
+                wsClienti.Cell(1, 2).Value = "Ragione Sociale";
+                wsClienti.Cell(1, 3).Value = "Nome";
+                wsClienti.Cell(1, 4).Value = "Referente";
+                wsClienti.Cell(1, 5).Value = "Fatturato";
+                wsClienti.Cell(1, 6).Value = "Categoria";
+                wsClienti.Cell(1, 7).Value = "Indirizzo";
+                wsClienti.Cell(1, 8).Value = "Anno";
 
-                int row = 2;
+                //intestazioni Storico
+
+                wsStorico.Cell(1, 1).Value = "Cliente ID";
+                wsStorico.Cell(1, 2).Value = "Nome";
+                wsStorico.Cell(1, 3).Value = "Regalo";
+                wsStorico.Cell(1, 4).Value = "Categoria Regalo";
+                wsStorico.Cell(1, 5).Value = "Anno";
+
+                int rowClienti = 2;
+                int rowStorico = 2;
 
                 using (SQLiteConnection conn = new SQLiteConnection(connString))
                 {
                     conn.Open();
 
-                    string query = @"
+                    string queryClienti = @"
                 SELECT 
                     c.Id,
                     c.RagioneSociale,
@@ -224,32 +234,56 @@ namespace Gestione_Regali_Natale
                 GROUP BY c.Id, c.RagioneSociale, c.Nome, c.Referente, c.Fatturato, c.Categoria, c.Indirizzo
                 ORDER BY c.Id";
 
-                    using (SQLiteCommand cmd = new SQLiteCommand(query, conn))
-                    using (SQLiteDataReader reader = cmd.ExecuteReader())
+                    using (SQLiteCommand cmdClienti = new SQLiteCommand(queryClienti, conn))
+                    using (SQLiteDataReader reader = cmdClienti.ExecuteReader())
                     {
                         while (reader.Read())
                         {
-                            ws.Cell(row, 1).Value = Convert.ToInt32(reader["Id"]);
-                            ws.Cell(row, 2).Value = reader["RagioneSociale"].ToString();
-                            ws.Cell(row, 3).Value = reader["Nome"].ToString();
-                            ws.Cell(row, 4).Value = reader["Referente"].ToString();
-                            ws.Cell(row, 5).Value = reader["Fatturato"].ToString();
-                            ws.Cell(row, 6).Value = reader["Categoria"].ToString();
-                            ws.Cell(row, 7).Value = reader["Indirizzo"].ToString();
+                            wsClienti.Cell(rowClienti, 1).Value = Convert.ToInt32(reader["Id"]);
+                            wsClienti.Cell(rowClienti, 2).Value = reader["RagioneSociale"].ToString();
+                            wsClienti.Cell(rowClienti, 3).Value = reader["Nome"].ToString();
+                            wsClienti.Cell(rowClienti, 4).Value = reader["Referente"].ToString();
+                            wsClienti.Cell(rowClienti, 5).Value = reader["Fatturato"].ToString();
+                            wsClienti.Cell(rowClienti, 6).Value = reader["Categoria"].ToString();
+                            wsClienti.Cell(rowClienti, 7).Value = reader["Indirizzo"].ToString();
 
                             if (reader["Anno"] == DBNull.Value)
-                                ws.Cell(row, 8).Value = "";
+                                wsClienti.Cell(rowClienti, 8).Value = "";
                             else
-                                ws.Cell(row, 8).Value = Convert.ToInt32(reader["Anno"]);
+                                wsClienti.Cell(rowClienti, 8).Value = Convert.ToInt32(reader["Anno"]);
 
-                            row++;
+                            rowClienti++;
                         }
+                    }
+                    string queryStorico = @"
+                SELECT
+                    r.ClienteId,
+                    c.Nome,
+                    r.Regalo,
+                    r.CategoriaRegalo,
+                    r.Anno
+                FROM Regali r
+                INNER JOIN Clienti c ON c.Id = r.ClienteId
+                ORDER BY c.Nome, r.Anno DESC";
 
+                    using (SQLiteCommand cmdStorico = new SQLiteCommand(queryStorico, conn))
+                    using (SQLiteDataReader readerStorico = cmdStorico.ExecuteReader())
+                    {
+                        while (readerStorico.Read())
+                        {
+                            wsStorico.Cell(rowStorico, 1).Value = Convert.ToInt32(readerStorico["ClienteId"]);
+                            wsStorico.Cell(rowStorico, 2).Value = readerStorico["Nome"].ToString();
+                            wsStorico.Cell(rowStorico, 3).Value = readerStorico["Regalo"] == DBNull.Value ? "" : readerStorico["Regalo"].ToString();
+                            wsStorico.Cell(rowStorico, 4).Value = readerStorico["CategoriaRegalo"] == DBNull.Value ? "" : readerStorico["CategoriaRegalo"].ToString();
+                            wsStorico.Cell(rowStorico, 5).Value = readerStorico["Anno"] == DBNull.Value ? "" : readerStorico["Anno"].ToString();
 
+                            rowStorico++;
+                        }
                     }
                 }
 
-                ws.Columns().AdjustToContents();
+                wsClienti.Columns().AdjustToContents();
+                wsStorico.Columns().AdjustToContents();
                 wb.SaveAs(save.FileName);
             }
 

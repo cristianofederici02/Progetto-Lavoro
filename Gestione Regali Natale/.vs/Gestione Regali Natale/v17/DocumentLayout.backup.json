@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro\\Gestione Regali Natale\\",
+  "WorkspaceRootPath": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro Git\\Progetto-Lavoro\\Gestione Regali Natale\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|C:\\Users\\Cristian\\Desktop\\Progetto Lavoro\\Gestione Regali Natale\\gestione regali natale\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|c:\\users\\cristian\\desktop\\progetto lavoro git\\progetto-lavoro\\gestione regali natale\\gestione regali natale\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|solutionrelative:gestione regali natale\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|C:\\Users\\Cristian\\Desktop\\Progetto Lavoro\\Gestione Regali Natale\\gestione regali natale\\clienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|solutionrelative:gestione regali natale\\clienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|c:\\users\\cristian\\desktop\\progetto lavoro\\gestione regali natale\\gestione regali natale\\regaloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|solutionrelative:gestione regali natale\\regaloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|C:\\Users\\Cristian\\Desktop\\Progetto Lavoro\\Gestione Regali Natale\\gestione regali natale\\regaloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|solutionrelative:gestione regali natale\\regaloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|C:\\Users\\Cristian\\Desktop\\Progetto Lavoro\\Gestione Regali Natale\\gestione regali natale\\storicoregaliform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|C:\\Users\\Cristian\\Desktop\\Progetto Lavoro Git\\Progetto-Lavoro\\Gestione Regali Natale\\gestione regali natale\\storicoregaliform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|solutionrelative:gestione regali natale\\storicoregaliform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|C:\\Users\\Cristian\\Desktop\\Progetto Lavoro\\Gestione Regali Natale\\gestione regali natale\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|C:\\Users\\Cristian\\Desktop\\Progetto Lavoro Git\\Progetto-Lavoro\\Gestione Regali Natale\\gestione regali natale\\clienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|solutionrelative:gestione regali natale\\clienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|C:\\Users\\Cristian\\Desktop\\Progetto Lavoro Git\\Progetto-Lavoro\\Gestione Regali Natale\\gestione regali natale\\regaloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|solutionrelative:gestione regali natale\\regaloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|C:\\Users\\Cristian\\Desktop\\Progetto Lavoro Git\\Progetto-Lavoro\\Gestione Regali Natale\\gestione regali natale\\regaloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|solutionrelative:gestione regali natale\\regaloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|C:\\Users\\Cristian\\Desktop\\Progetto Lavoro Git\\Progetto-Lavoro\\Gestione Regali Natale\\gestione regali natale\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|solutionrelative:gestione regali natale\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|C:\\Users\\Cristian\\Desktop\\Progetto Lavoro\\Gestione Regali Natale\\gestione regali natale\\clienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|C:\\Users\\Cristian\\Desktop\\Progetto Lavoro Git\\Progetto-Lavoro\\Gestione Regali Natale\\gestione regali natale\\clienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|solutionrelative:gestione regali natale\\clienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|C:\\Users\\Cristian\\Desktop\\Progetto Lavoro\\Gestione Regali Natale\\gestione regali natale\\storicoregaliform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|C:\\Users\\Cristian\\Desktop\\Progetto Lavoro Git\\Progetto-Lavoro\\Gestione Regali Natale\\gestione regali natale\\storicoregaliform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{47D10C51-F8DE-4131-9DA6-F9C3187C9F35}|Gestione Regali Natale\\Gestione Regali Natale.csproj|solutionrelative:gestione regali natale\\storicoregaliform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -46,85 +46,84 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RegaloForm.cs",
-              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\RegaloForm.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro Git\\Progetto-Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\RegaloForm.cs",
               "RelativeDocumentMoniker": "Gestione Regali Natale\\RegaloForm.cs",
-              "ToolTip": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\RegaloForm.cs",
+              "ToolTip": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro Git\\Progetto-Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\RegaloForm.cs",
               "RelativeToolTip": "Gestione Regali Natale\\RegaloForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T11:39:34.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T11:39:34.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ClienteForm.cs",
-              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\ClienteForm.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro Git\\Progetto-Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\ClienteForm.cs",
               "RelativeDocumentMoniker": "Gestione Regali Natale\\ClienteForm.cs",
-              "ToolTip": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\ClienteForm.cs",
+              "ToolTip": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro Git\\Progetto-Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\ClienteForm.cs",
               "RelativeToolTip": "Gestione Regali Natale\\ClienteForm.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAUwBQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T10:11:50.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T10:11:50.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "RegaloForm.cs [Progettazione]",
-              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\RegaloForm.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro Git\\Progetto-Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\RegaloForm.cs",
               "RelativeDocumentMoniker": "Gestione Regali Natale\\RegaloForm.cs",
               "ToolTip": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\RegaloForm.cs [Progettazione]",
-              "RelativeToolTip": "Gestione Regali Natale\\RegaloForm.cs [Progettazione]",
+              "RelativeToolTip": "..\\..\\..\\Progetto Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\RegaloForm.cs [Progettazione]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-17T11:36:40.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "StoricoRegaliForm.cs",
-              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\StoricoRegaliForm.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro Git\\Progetto-Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\StoricoRegaliForm.cs",
               "RelativeDocumentMoniker": "Gestione Regali Natale\\StoricoRegaliForm.cs",
-              "ToolTip": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\StoricoRegaliForm.cs",
+              "ToolTip": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro Git\\Progetto-Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\StoricoRegaliForm.cs",
               "RelativeToolTip": "Gestione Regali Natale\\StoricoRegaliForm.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAowH8AAABHAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwEwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T10:44:21.728Z"
+              "WhenOpened": "2026-01-17T10:44:21.728Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "StoricoRegaliForm.cs [Progettazione]",
-              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\StoricoRegaliForm.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro Git\\Progetto-Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\StoricoRegaliForm.cs",
               "RelativeDocumentMoniker": "Gestione Regali Natale\\StoricoRegaliForm.cs",
-              "ToolTip": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\StoricoRegaliForm.cs [Progettazione]",
+              "ToolTip": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro Git\\Progetto-Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\StoricoRegaliForm.cs [Progettazione]",
               "RelativeToolTip": "Gestione Regali Natale\\StoricoRegaliForm.cs [Progettazione]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T10:38:56.773Z"
+              "WhenOpened": "2026-01-17T10:38:56.773Z",
+              "EditorCaption": " [Progettazione]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ClienteForm.cs [Progettazione]",
-              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\ClienteForm.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro Git\\Progetto-Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\ClienteForm.cs",
               "RelativeDocumentMoniker": "Gestione Regali Natale\\ClienteForm.cs",
               "ToolTip": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\ClienteForm.cs [Progettazione]",
-              "RelativeToolTip": "Gestione Regali Natale\\ClienteForm.cs [Progettazione]",
+              "RelativeToolTip": "..\\..\\..\\Progetto Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\ClienteForm.cs [Progettazione]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T10:05:56.899Z",
-              "EditorCaption": " [Progettazione]"
+              "WhenOpened": "2025-12-29T10:05:56.899Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro Git\\Progetto-Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\MainForm.cs",
               "RelativeDocumentMoniker": "Gestione Regali Natale\\MainForm.cs",
-              "ToolTip": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro Git\\Progetto-Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\MainForm.cs",
               "RelativeToolTip": "Gestione Regali Natale\\MainForm.cs",
-              "ViewState": "AgIAAIwBAAAAAAAAAAAUwJ8BAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAkwAoBAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T21:23:55.623Z",
               "EditorCaption": ""
@@ -133,13 +132,12 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "MainForm.cs [Progettazione]",
-              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro Git\\Progetto-Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\MainForm.cs",
               "RelativeDocumentMoniker": "Gestione Regali Natale\\MainForm.cs",
               "ToolTip": "C:\\Users\\Cristian\\Desktop\\Progetto Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\MainForm.cs [Progettazione]",
-              "RelativeToolTip": "Gestione Regali Natale\\MainForm.cs [Progettazione]",
+              "RelativeToolTip": "..\\..\\..\\Progetto Lavoro\\Gestione Regali Natale\\Gestione Regali Natale\\MainForm.cs [Progettazione]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T21:23:42.602Z",
-              "EditorCaption": " [Progettazione]"
+              "WhenOpened": "2025-12-16T21:23:42.602Z"
             }
           ]
         }

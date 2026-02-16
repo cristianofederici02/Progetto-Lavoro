@@ -74,7 +74,7 @@ namespace Gestione_Regali_Natale
 
                         SQLiteCommand cmd = new SQLiteCommand(@"
                     INSERT INTO Regali (ClienteId, Anno, Regalo, Categoria)
-                    VALUES (@id,@a,@r)", conn);
+                    VALUES (@id,@a,@r,@c)", conn);
 
                         cmd.Parameters.AddWithValue("@id", _clienteId);
                         cmd.Parameters.AddWithValue("@a", f.Anno);
