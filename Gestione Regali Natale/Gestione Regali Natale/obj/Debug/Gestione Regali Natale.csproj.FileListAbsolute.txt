@@ -89,7 +89,6 @@ C:\Users\Cristian\Desktop\Progetto Lavoro Git\Progetto-Lavoro\Gestione Regali Na
 C:\Users\Cristian\Desktop\Progetto Lavoro Git\Progetto-Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Cristian\Desktop\Progetto Lavoro Git\Progetto-Lavoro\Gestione Regali Natale\Gestione Regali Natale\bin\Debug\System.Security.Cryptography.Xml.xml
 C:\Users\Cristian\Desktop\Progetto Lavoro Git\Progetto-Lavoro\Gestione Regali Natale\Gestione Regali Natale\obj\Debug\Gestione Regali Natale.csproj.AssemblyReference.cache
-C:\Users\Cristian\Desktop\Progetto Lavoro Git\Progetto-Lavoro\Gestione Regali Natale\Gestione Regali Natale\obj\Debug\Gestione Regali Natale.exe.config
 C:\Users\Cristian\Desktop\Progetto Lavoro Git\Progetto-Lavoro\Gestione Regali Natale\Gestione Regali Natale\obj\Debug\Gestione_Regali_Natale.ClienteForm.resources
 C:\Users\Cristian\Desktop\Progetto Lavoro Git\Progetto-Lavoro\Gestione Regali Natale\Gestione Regali Natale\obj\Debug\Gestione_Regali_Natale.MainForm.resources
 C:\Users\Cristian\Desktop\Progetto Lavoro Git\Progetto-Lavoro\Gestione Regali Natale\Gestione Regali Natale\obj\Debug\Gestione_Regali_Natale.Properties.Resources.resources
